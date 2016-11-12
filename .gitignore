@@ -1,0 +1,22 @@
+# Leiningen
+pom.xml
+pom.xml.asc
+*jar
+/lib/
+/classes/
+/target/
+/checkouts/
+.lein-*
+.nrepl-port
+/out/
+/release/
+.lein-deps-sum
+.lein-repl-history
+.lein-plugins/
+.repl*
+.cljs_node_repl/
+node_modules/
+
+# IntelliJ IDEA
+/.idea
+*.iml
